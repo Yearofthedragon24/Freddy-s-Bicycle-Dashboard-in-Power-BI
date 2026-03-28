@@ -42,4 +42,8 @@ This project is a comprehensive Power BI dashboard analyzing business performanc
 
 ## 🎯 Purpose
 
-This project was created to demonstrate data analysis and visualization skills using Power BI.
+This project aims to analyze and visualize business performance using Power BI.
+
+The goal is to transform raw data into meaningful insights that support data-driven decision-making. The dashboard highlights key areas such as sales performance, geographical trends, workforce analytics, and inventory management.
+
+It also demonstrates skills in data modeling, DAX, and interactive dashboard design.
