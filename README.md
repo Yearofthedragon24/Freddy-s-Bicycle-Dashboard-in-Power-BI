@@ -18,7 +18,7 @@ This project is a comprehensive Power BI dashboard analyzing business performanc
 
 ## 📁 File
 
-* `sales-project.pbix`
+[Download Power BI file](https://drive.google.com/file/d/1OV9KRMcJ44weeivaOWRXuRUe1UxnshhE/view?usp=drive_link)
 
 ## 📸 Dashboard Preview
 
