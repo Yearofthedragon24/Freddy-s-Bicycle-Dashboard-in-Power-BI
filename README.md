@@ -1,8 +1,9 @@
 # 📊 Sales & Business Intelligence Dashboard (Power BI)
+A Power BI dashboard analyzing business performance for a bicycle company.
 
 ## 📊 Project Overview
 
-This Power BI dashboard analyzes business performance for a bicycle company.
+This Power BI dashboard provides insights into business performance for a bicycle company.
 
 It provides insights into sales trends, regional performance, workforce distribution, and inventory management to support data-driven decision-making.
 
@@ -13,7 +14,18 @@ It provides insights into sales trends, regional performance, workforce distribu
 - Geographic breakdown of sales  
 - HR insights (employee distribution & salaries)  
 - Inventory tracking and turnover analysis  
-- 
+
+## 📈 Business Insights
+
+The dashboard reveals key patterns in business performance:
+
+- Sales trends highlight seasonal variations and growth opportunities  
+- Geographic analysis identifies high-performing regions  
+- HR data provides insight into workforce distribution and salary structure  
+- Inventory metrics help monitor stock levels and optimize turnover  
+
+These insights can support strategic decision-making and improve operational efficiency.
+
 ## 🛠️ Tools Used
 
 * Power BI
