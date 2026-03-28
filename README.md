@@ -20,10 +20,10 @@ This project is a comprehensive Power BI dashboard analyzing business performanc
 
 ## 📥 Download Project
 
-⚠️ The Power BI file cannot be previewed properly in the browser.  
-Please open the link below and click **Download** in Google Drive.
+👉 Download the ZIP file and extract it  
+👉 Open the .pbix file in Power BI Desktop
 
-[Download Power BI file](https://drive.google.com/file/d/10V9KRMcJ44weeivaOWRXuRUe1UxnsnhE/view?usp=drive_link)
+[Download Power BI Project](DIN_ZIP_LÄNK](https://drive.google.com/file/d/1OV9KRMcJ44weeivaOWRXuRUe1UxnshhE/view?usp=drive_link)
 
 ## 📸 Dashboard Preview
 
