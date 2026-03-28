@@ -18,7 +18,12 @@ This project is a comprehensive Power BI dashboard analyzing business performanc
 
 ## 📁 File
 
-[Download Power BI file](https://drive.google.com/file/d/1OV9KRMcJ44weeivaOWRXuRUe1UxnshhE/view?usp=drive_link)
+## 📥 Download Project
+
+⚠️ This file cannot be previewed in the browser.  
+Please download and open it in Power BI Desktop.
+
+👉 [Download here](https://drive.google.com/file/d/1OV9KRMcJ44weeivaOWRXuRUe1UxnshhE/view?usp=drive_link)
 
 ## 📸 Dashboard Preview
 
