@@ -23,7 +23,7 @@ This project is a comprehensive Power BI dashboard analyzing business performanc
 👉 Download the ZIP file and extract it  
 👉 Open the .pbix file in Power BI Desktop
 
-[Download Power BI Project](DIN_ZIP_LÄNK](https://drive.google.com/file/d/1OV9KRMcJ44weeivaOWRXuRUe1UxnshhE/view?usp=drive_link)
+[Download Power BI Project](https://drive.google.com/file/d/1OV9KRMcJ44weeivaOWRXuRUe1UxnshhE/view?usp=drive_link)
 
 ## 📸 Dashboard Preview
 
